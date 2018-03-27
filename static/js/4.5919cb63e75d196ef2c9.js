@@ -1,2 +1,0 @@
-webpackJsonp([4],{oAc3:function(e,t){},pjwW:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("h1",[this._v("reg")])},staticRenderFns:[]};var c=n("VU/8")({data:function(){return{}}},r,!1,function(e){n("oAc3")},"data-v-1fcb799a",null);t.default=c.exports}});
-//# sourceMappingURL=4.5919cb63e75d196ef2c9.js.map
